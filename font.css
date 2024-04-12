@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'PPNeueMachina'; 
+    src: url('Helvetica-Bold.otf') format('opentype'); 
+}
+
+.custom-heading {
+    font-family: 'PPNeueMachina', Arial, sans-serif; 
+}
+
+@font-face {
+    font-family: 'Hell'; 
+    src: url('Helvetica.otf') format('opentype'); 
+}
+
+.helvetica {
+    font-family: 'Hell', Arial, sans-serif; 
+}
